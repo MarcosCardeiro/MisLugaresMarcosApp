@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisLugaresMarcosApp</string>
+    <string name="accion_mostrar">Show</string>
+    <string name="accion_preferencias">Preferences</string>
+    <string name="accion_acerca_de">About</string>
+    <string name="accion_salir">Exit</string>
+    <string name="etAcercaDe">APPLICATION MY PLACES: Hi, I am Marcos Cardeiro Rodríguez. This program has been developed as an example to demonstrate how new activities can be launched from the main activity.</string>
+    <string name="tv_direccion">Direction</string>
+    <string name="tv_telefono">Telefone</string>
+    <string name="tv_direccionURI">directionWeb</string>
+    <string name="tv_comentario">commentary</string>
+    <string name="tv_fecha">Date</string>
+    <string name="tv_hora">Hour</string>
+</resources>

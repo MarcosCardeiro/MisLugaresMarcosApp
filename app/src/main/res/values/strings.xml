@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MisLugaresMarcosApp</string>
+    <string name="accion_mostrar">mostrar</string>
+    <string name="accion_preferencias">preferencias</string>
+    <string name="accion_acerca_de">acerca de</string>
+    <string name="accion_salir">salir</string>
+    <string name="etAcercaDe">APLICACIÓN MIS LUGARES:Hola soy Marcos Cardeiro Rodríguez.Este programa ha sido desarrollado com o ejemplo para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal.</string>
+    <string name="tv_direccion">direccion</string>
+    <string name="tv_telefono">telefono</string>
+    <string name="tv_direccionURI">direccionWeb</string>
+    <string name="tv_comentario">comentario</string>
+    <string name="tv_fecha">fecha</string>
+    <string name="tv_hora">hora</string>
+</resources>
